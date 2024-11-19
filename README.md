@@ -1,7 +1,7 @@
 # Lead Conversion Strategy Model
 
 ## Team Members
-- **Nishanth Fiona (Me)**
+- **Nishanth Fiona
 - **Drupad Kumar**
 - **Radhakrishnan**
 
